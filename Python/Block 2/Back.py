@@ -1,0 +1,6 @@
+print("cual es tu compromiso con la clase?")
+print("poner mas atencion")
+print("cual es tu compromiso con la escuela?")
+print("entregar todo a tiempo")
+print("cual es tu compromiso conmigo?")
+print("ser productiva y ser mas saludable")
